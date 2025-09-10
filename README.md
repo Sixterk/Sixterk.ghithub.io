@@ -1,1 +1,0 @@
-# Sixterk.ghithub.io
