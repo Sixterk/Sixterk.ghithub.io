@@ -11,7 +11,7 @@ require("dotenv").config();
 // Inicializar la aplicación Express
 const app = express();
 // Definir el puerto del servidor, usando el de las variables de entorno o 10000 por defecto
-const PORT = process.env.PORT || 10000;
+const PORT = process.env.PORT || 000;
 
 // --- Middlewares ---
 
